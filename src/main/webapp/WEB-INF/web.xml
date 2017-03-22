@@ -19,7 +19,7 @@
 
 	<servlet-mapping>
 		<servlet-name>CounterServlet</servlet-name>
-		<url-pattern>/*</url-pattern>
+		<url-pattern>/counter</url-pattern>
 	</servlet-mapping>
 
 	<session-config>
