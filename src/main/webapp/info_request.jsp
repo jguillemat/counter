@@ -30,13 +30,6 @@
 		<br/>
 		<p> request.isUserInRole("USUARIO") = <%= request.isUserInRole("USUARIO") %></p>
 		<p> request.isUserInRole("ADMINISTRADOR") = <%= request.isUserInRole("ADMINISTRADOR") %></p>
-		<p> request.isUserInRole("CIUTADA") = <%= request.isUserInRole("CIUTADA") %></p>
-		<br/>
-		<p> request.isUserInRole("BASE") = <%= request.isUserInRole("BASE") %></p>
-		<p> request.isUserInRole("ciutada") = <%= request.isUserInRole("ciutada") %></p>
-		<p> request.isUserInRole("fusuaris") = <%= request.isUserInRole("fusuaris") %></p>
-		<p> request.isUserInRole("fusuarisbase") = <%= request.isUserInRole("fusuarisbase") %></p>
-		<p> request.isUserInRole("fusuaris") = <%= request.isUserInRole("fusuaris") %></p>
 		<br/>
 		<%
 		try {
