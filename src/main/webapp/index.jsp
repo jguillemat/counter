@@ -28,7 +28,7 @@ on Libraries node in Projects view can be used to add the JSTL 1.1 library.
     <%--
     <c:if test="${param.sayHello}">
         <!-- Let's welcome the user ${param.name} -->
-        Hello ${param.name}!
+        Hello, Mr/Ms ${param.name}!
     </c:if>
     --%>
     
